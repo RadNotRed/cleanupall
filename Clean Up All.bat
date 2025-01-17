@@ -64,11 +64,9 @@ md C:\Windows\SoftwareDistribution
 cls
 echo.
 
-# Commands to delete Windows.old and Windows.old.000 directories
 rd /s /q C:\Windows.old
 rd /s /q C:\Windows.old.000
 
-# Existing commands
 cls
 echo.
 cls
